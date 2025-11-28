@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/R.0d08cb9730bdb48419a281e45d4ceb16?rik=JOQ5NkvKQ3GQ2Q&riu=http%3a%2f%2fwww.thinkwik.com%2fpublic%2fimages%2ftechnology%2fandroid%2fbanner.jpg&ehk=Zgrzme7Zl9byABTqwOVFeJpvyi%2b%2bq0LhYgn6GDpBPl4%3d&risl=&pid=ImgRaw&r=0)](https://ranjithatk.io)
+
 
 <h1 align="center">Hi 👋, I'm Ranjitha TK</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
